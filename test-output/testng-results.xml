@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T10:38:52 IST" name="Default suite" finished-at="2024-01-24T10:39:25 IST" duration-ms="32917">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T10:38:52 IST" name="Default test" finished-at="2024-01-24T10:39:25 IST" duration-ms="32917">
+      <class name="CommonUtils.LeadBaseClass">
+        <test-method is-config="true" signature="BS()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:38:52 IST" name="BS" finished-at="2024-01-24T10:38:52 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:38:52 IST" name="BC" finished-at="2024-01-24T10:38:55 IST" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:38:55 IST" name="BM" finished-at="2024-01-24T10:39:02 IST" duration-ms="6433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="leadTest()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:39:02 IST" name="leadTest" finished-at="2024-01-24T10:39:23 IST" duration-ms="21510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leadTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:39:23 IST" name="AM" finished-at="2024-01-24T10:39:25 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:CommonUtils.LeadBaseClass@5e600dd5]" started-at="2024-01-24T10:39:25 IST" name="AS" finished-at="2024-01-24T10:39:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- CommonUtils.LeadBaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
