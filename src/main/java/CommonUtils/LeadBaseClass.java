@@ -19,7 +19,7 @@ import org.testng.annotations.Test;
 
 public class LeadBaseClass {
 	
-	PropertiesFileUtils utils = new PropertiesFileUtils();
+	PropertiesFiles1 utils = new PropertiesFiles1();
 	WebDriver cd;
 	
 	@BeforeSuite
